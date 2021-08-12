@@ -1,6 +1,4 @@
 package prova2.classepadrao;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Funcionario {
 
