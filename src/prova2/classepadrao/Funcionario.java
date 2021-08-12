@@ -1,11 +1,13 @@
 package prova2.classepadrao;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Funcionario {
 
-    private String Nome;
-    private String Cargo;
-    private Double Salario;
-    private String RegimeTrabalho;
+    public String Nome;
+    public String Cargo;
+    public Double Salario;
+    public String RegimeTrabalho;
 
     public String getNome() {
         return Nome;
